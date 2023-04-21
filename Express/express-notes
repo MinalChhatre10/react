@@ -1,0 +1,19 @@
+Express is node's framework
+
+It help to write less repetitive code while building web- applications
+run using - node server.js
+npm init
+entry point- server.js
+
+install express
+-npm install express
+
+sudo npm install -g nodemon
+run using -
+nodemon server.js
+
+normally code runs on client side
+but by using node and express code will run in our own server
+it will only deliver the outcome backto user
+hence user will not see the code or logic
+it all run on server
